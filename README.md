@@ -16,3 +16,4 @@ In the rapidly evolving world of Unmanned Aerial Vehicles (UAVs), fixed-wing air
 
 ## cite us
 
+FREITAS, Elias JR et al. A systematic literature mapping of path planning and collision avoidance approaches for unmanned fixed-wings. In: 2024 International Conference on Unmanned Aircraft Systems (ICUAS). IEEE, 2024. p. 763-770.
